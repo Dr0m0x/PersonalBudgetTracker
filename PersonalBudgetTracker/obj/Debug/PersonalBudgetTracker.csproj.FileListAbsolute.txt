@@ -1,0 +1,7 @@
+C:\Users\Mohol\source\repos\PersonalBudgetTracker\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.csproj.AssemblyReference.cache
+C:\Users\Mohol\source\repos\PersonalBudgetTracker\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Mohol\source\repos\PersonalBudgetTracker\PersonalBudgetTracker\bin\Debug\PersonalBudgetTracker.exe.config
+C:\Users\Mohol\source\repos\PersonalBudgetTracker\PersonalBudgetTracker\bin\Debug\PersonalBudgetTracker.exe
+C:\Users\Mohol\source\repos\PersonalBudgetTracker\PersonalBudgetTracker\bin\Debug\PersonalBudgetTracker.pdb
+C:\Users\Mohol\source\repos\PersonalBudgetTracker\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.exe
+C:\Users\Mohol\source\repos\PersonalBudgetTracker\PersonalBudgetTracker\obj\Debug\PersonalBudgetTracker.pdb
